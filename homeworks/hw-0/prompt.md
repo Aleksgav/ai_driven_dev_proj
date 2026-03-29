@@ -1,0 +1,1 @@
+Create plan: create web application for Scrum Planning Poker. Application must be separated to two parts: API only backend (Ruby on Rails), and SPA frontend (NextJs), see @PROJECT.md and @CLAUDE.md. Write this plan in ./plans/first_stage.md.
